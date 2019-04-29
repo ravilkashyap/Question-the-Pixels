@@ -1,0 +1,564 @@
+,image_id,ques_id,question,answer,answer,answer,answer,answer,answer,answer,answer,answer,answer
+0,458752,458752000,What is this photo taken looking through?,net,net,net,netting,net,net,mesh,net,net,net
+1,458752,458752001,What position is this man playing?,pitcher,catcher,pitcher,pitcher,pitcher,pitcher,pitcher,pitcher,pitcher,pitcher
+2,458752,458752002,What color is the players shirt?,orange,orange,orange,orange,orange,orange,orange,orange,orange,orange
+3,458752,458752003,Is this man a professional baseball player?,yes,yes,yes,yes,yes,no,yes,yes,yes,yes
+4,262146,262146000,What color is the snow?,white,white,white,white,white,white,white,white,white,white
+5,262146,262146001,What is the person doing?,skiing,skiing,skiing,skiing,skiing,skiing,skiing,skiing,skiing,skiing
+6,262146,262146002,What color is the persons headwear?,red,red,red & white,black,red,red,red,red,red,red and white
+7,524291,524291000,What is in the person's hand?,frisbee,frisbee,white frisbee,frisbie,frisbee,frisbee,frisbee,frisbee,flying disc,frisbee
+8,524291,524291001,Is the dog waiting?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+9,524291,524291002,Is the dog looking at a tennis ball or frisbee?,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee,frisbee
+10,393221,393221000,Is the sky blue?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+11,393221,393221001,Is there snow on the mountains?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+12,393221,393221002,What is the white streak?,airplane,plane trail,contrail,jet trail,snow,contrails,jet stream,air trail,jet stream,contrail
+13,393223,393223000,Is the window open?,yes,no,yes,no,yes,yes,yes,yes,yes,yes
+14,393223,393223001,What color is the toothbrush?,white and purple,white,white and purple,white and purple,purple and white,white,white,white & lavender,white and purple,lavender and white
+15,393223,393223002,What is the child doing?,brushing teeth,brushing,brushing their teeth,brushing teeth,brushing teeth,brushing teeth,brushing teeth,brushing teeth,brushing teeth,toothbrush
+16,393223,393223003,Is she brushing?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+17,393224,393224000,Is the man smiling?,no,no,no,no,no,no,no,no,no,no
+18,393224,393224001,What is the business man doing in the picture?,waiting,standing,walking,unknown,frowning,pouting,walking,frowning,frowning,frowning
+19,393224,393224002,Does his tie pair well with his suit?,yes,no,no,no,poorly,yes,yes,no,no,no
+20,393224,393224003,Does the man look happy?,no,no,no,no,no,no,no,no,yes,no
+21,393224,393224004,Is this photo in color?,no,no,no,no,no,no,no,no,no,no
+22,393224,393224005,Is the man wearing a plain tie?,no,no,no,no,no,no,no,yes,no,no
+23,524297,524297000,"Judging from the dress, was this taken in a Latin American country?",yes,yes,no,yes,yes,yes,no,yes,no,yes
+24,524297,524297001,What colors are shown in this picture?,"black, white",black and white,black and white,black and white,white and gray,black white,black and white,"black, white, gray",black and white,black and white
+25,524297,524297002,Are the men on the sidewalk?,no,no,no,no,no,no,no,yes,no,no
+26,524297,524297003,Was this photo taken recently?,no,no,no,no,no,no,no,no,no,no
+27,393227,393227000,Does the guy have a tattoo?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+28,393227,393227001,What is this man riding on?,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard,skateboard
+29,393227,393227002,How many tattoos can be seen on this man's body?,1,1,1,1,3,2,1,1,1,1
+30,393227,393227003,What color is his hat?,backwards,blue,blue,blue,blue,blue,blue,blue,blue,blue
+31,393227,393227004,Is the man's visor providing his face enough protection?,no,no,no,no,no,no,no,no,no,no
+32,131084,131084000,What color is the jacket?,green,green and black,green and black,green,green and black,green,green,green,green,green
+33,131084,131084001,Is the man riding on a dirt path?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+34,131084,131084002,What is the man riding on?,motorbike,motorcycle,dirt bike,motorbike,motorcycle,dirt bike,motorcycle,motocross bike,motorcycle,dirt bike
+35,131074,131074000,What is on the pillow?,pillow sham,frills,pillow case,pillowcases,nothing,gray,note,cover,paper,sign
+36,131074,131074001,How many pieces of furniture which are used for sleeping are featured in this picture?,2,2,2,2,2,2,2,2,2,2
+37,131074,131074002,Are the walls done in a summery color?,no,yes,yes,yes,no,no,yes,yes,yes,yes
+38,131074,131074003,Is the curtain patterned?,no,no,no,yes,no,no,no,yes,yes,no
+39,131074,131074004,What is sitting on the bench?,purse,purse,purse,handbag,purse,purse,purse,purse,purse,purse
+40,131074,131074005,Are the windows the same size?,yes,no,yes,yes,yes,no windows,yes,no,yes,yes
+41,393230,393230000,What is this person doing?,skiing,skiing,skiing,skiing,snow ski,skiing,skiing,skiing,skiing,skiing
+42,393230,393230001,How many people are in this image?,1,1,1,1,1,1,1,there is 1 person in this image,1,1
+43,393230,393230002,Is there a shadow of a tree in the foreground?,no,no,no,no,no,no,no,no,no,no
+44,393230,393230003,What is the man doing?,skiing,skiing,skiing,skiing,skiing,skiing,skiing,skiing,skiing,skiing
+45,393230,393230004,What color is the sky?,blue and white,gray,gray,gray,gray,gray,gray,gray,gray,gray
+46,393230,393230005,What is the person wearing?,ski clothes,clothes,ski clothes,skis,clothes,snowsuit,ski pants and jacket,helmet,blue jacket and black pants,skis
+47,393230,393230006,Did someone forget his luggage in the snow?,no,no,no,no,no,no,no,no,no,no
+48,393230,393230007,What color is his coat?,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue and white
+49,393230,393230008,Is it daytime?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+50,393230,393230009,What is she holding?,poles,ski poles,poles,skis,ski poles,ski pole,pole,poles,poles,poles
+51,393230,393230010,Is the person wearing a hat?,no,yes,no,yes,no,yes,no,no,no,yes
+52,131087,131087000,What is the dog riding on?,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfing
+53,131087,131087001,Is the dog wearing a collar?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+54,131087,131087002,Is it a clear day?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+55,131087,131087003,Is there a body of water here?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+56,131087,131087004,What is in the water?,dog on surfboard,dog on surfboard,dog and surfboard,dog on surfboard,surfboard,surfboard,surfboard and dog,dog,dog,dog
+57,131075,131075000,"What does the green light, on the TV, indicate?",it's turned on,background,on,background,powered on,it is on,it's color of screen,off,on,power
+58,131075,131075001,Is the light on?,no,no,no,no,no,yes,no,no,no,no
+59,131075,131075002,What room of the house is this?,office,bedroom,office,conference room,office,living room,living room,big,family room,office
+60,131075,131075003,What is the size of the TV?,50 inch,40 inch,20 feet,large,36,100 inches,75 inch,it's projector,large,60 inches
+61,131075,131075004,Is the room messy?,no,no,no,no,no,no,no,no,no,no
+62,131075,131075005,Is this a TV screen?,yes,yes,no,no,no,yes,yes,yes,no,yes
+63,131075,131075006,How big is the TV?,big,very,very big,very big,very big,46 inches,gigantic,very big,20 in,large
+64,131075,131075007,What companion object to the TV can be seen in the bottom right of the picture?,laptop,computer,laptop,laptop,laptop,laptop,laptop,remote,remote,computer
+65,131075,131075008,What is the small computer on the left called?,laptop,laptop,laptop,laptop,laptop,laptop,laptop,laptop,laptop,projector
+66,131075,131075009,What is above the TV?,vent,vent,vent,ceiling,air duct,tiles,ceiling,ceiling,vent,ceiling
+67,131075,131075010,What is on the display?,document,outlook,word document,word document,document,overhead presentation,website,web page,na,laptop screen
+68,131075,131075011,Is there a laptop in the image?,yes,yes,yes,yes,yes,yes,yes,no,yes,no
+69,131075,131075012,Is it a monitor or a screen projection?,yes,screen projection,screen projection,monitor,screen projection,screen projection,monitor,screen projection,screen projection,screen projector
+70,131075,131075013,What is on the TV screen?,ms word,outlook,document,document,mirrored computer,computer,outlook web app,computer,desktop screen,desktop
+71,131075,131075014,What is the title of the presentation in the picture?,outlook web app,outlook web app,outlook web app,flight markup,outlook,design,can't see,business,extend with app,can't tell
+72,137045,137045000,What color is the bear?,black,black,black,black,black,black,black,black,black,black
+73,137045,137045001,Is the animal a mammal?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+74,137045,137045002,What is this?,bear,bear,bear,bear,bear,bear,bear,bear,bear,bear
+75,131093,131093000,Are there rocks in the picture?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+76,131093,131093001,Has the sheep recently been shaved?,no,0,no,no,no,no,no,no,no,no
+77,131093,131093002,How many sheeps are this?,3,3,3,3,3,0,3,3,3,3
+78,131093,131093003,Are there three sheep?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+79,524311,524311000,What is the man playing?,wii,wii,wii,x box,wii,wii,wii,wii,game,wii
+80,524311,524311001,Is the man having a good time?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+81,524311,524311002,What does the man have on his face?,glasses,glasses,glasses,glasses,smile,sweat,glasses,eyeglasses,glasses,glasses
+82,25,25000,What is in front of the giraffes?,tree,tree,tree,tree,tree,tree,tree,tree,trees,trees
+83,25,25001,What do these giraffes have in common?,height,long neck,spots,they are tall,eating,eating,eating,eating,they're animals,tall
+84,25,25002,Could this photo be from a zoo?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+85,25,25003,Are the animals eating?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+86,25,25004,Where is the giraffe?,by tree,africa,by tree,near tree,zoo,near tree,beside tree,yes,near tree,outside
+87,25,25005,Is there a zebra?,no,no,no,no,no,no,no,no,no,no
+88,25,25006,What is the giraffe standing behind?,tree,tree,fallen tree,tree,tree,log,trees,log,log,tree
+89,25,25007,Is the giraffe eating the tree?,yes,yes,no,yes,yes,yes,yes,no,yes,yes
+90,25,25008,Are both giraffes standing?,yes,no,no,no,2,no,yes,no,no,yes
+91,25,25009,Are they at a zoo?,yes,yes,no,yes,yes,no,no,yes,no,yes
+92,25,25010,What is on the ground next to the giraffe on the right?,log,dead tree,log,log,tree,log,log,tree,trees,tree trunk
+93,25,25011,Are some of the trees dead?,yes,yes,yes,yes,no,yes,yes,yes,yes,yes
+94,25,25012,Are any of the animals eating?,yes,yes,yes,yes,yes,yes,yes,1,yes,yes
+95,25,25013,Is the giraffe in the shade?,no,no,no,no,no,no,no,no,no,no
+96,25,25014,Are these giraffes living free range?,no,yes,yes,yes,yes,no,no,no,no,yes
+97,25,25015,How many giraffes are there?,2,2,2,1,2,1,2,2,2,2
+98,25,25016,Is there a rock near the giraffe?,no,no,no,no,no,no,no,no,no,no
+99,25,25017,How many animals are in this photo?,2,2,i can see total of 2 animals,2,giraffe,2,2,2,2,2
+100,524314,524314000,Why is the man on the street?,homeless,homeless,begging,homeless,he is homeless,homeless,resting,homeless,homeless,sitting
+101,524314,524314001,How is the man sitting?,cross legged,cross legged,cross legged,indian style,indian style,indian style,legs folded,cross legged,cross-legged,cross legged
+102,524314,524314002,"What does the word in the upper-left corner, behind the window, translate to in English?",automatic,automatique,automatic,automatic,automatic,atm,automation,automatic,automatic,automate
+103,262171,262171000,How many people are on the boat?,5,7,6,9,5,5,5,6,6,5
+104,262171,262171001,What color are the leaves?,green,green,green,green,green,green,green,green,green,green
+105,262171,262171002,What type of watercraft is that?,raft,raft,platoon,raft,raft,boat,rubber raft boat,boat,boat,raft
+106,262172,262172000,Where are the two blue coolers?,backpacks,bottom left,left corner,in left hand corner of photo,left,yes,behind chair,behind boxes,left,by boxes
+107,262172,262172001,What kind of room is this?,family room,living room,living room,den,playroom,main room,living room,storage room,living room,living room
+108,262172,262172002,Are they moving?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+109,131101,131101000,What color is the umbrella?,pink,pink and white,pink,pink and white,pink,pink,pink and white,pink and lavender and white,pink,red
+110,131101,131101001,Is this man angry?,no,no,no,yes,no,no,no,no,no,yes
+111,131101,131101002,Which hand holds the umbrella?,right,right,right,right,right,right,right,right,right,right
+112,30,30000,Are there flowers in the vase?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+113,30,30001,What is the vase sitting on?,railing,fence,railing,ledge,wall border,ledge,railing,porch ledge,patio ledge,wall
+114,30,30002,Is the sun to the right or left of this flower?,right,not possible,left,left,left,left,left,right,left,no
+115,30,30003,Are the flowers open?,no,yes,yes,yes,no,no,yes,yes,no,some
+116,30,30004,What color is the vase?,white,white,white,white,white,white,white,white,white,white
+117,30,30005,Are all the flowers white?,no,no,no,no,no,no,yes,no,no,no
+118,524320,524320000,Is the man standing on both foot?,yes,no,no,no,yes,yes,no,no,no,no
+119,524320,524320001,Was this picture likely taken recently?,yes,no,yes,no,no,no,no,maybe,yes,no
+120,524320,524320002,Do the gentleman's socks match his shoes and belt?,no,no,yes,no,no,no,no,no,no,no
+121,240304,240304000,What is the zebra eating?,grass,grass,grass,grass,grass,grass,grass,grass,grass,yes
+122,240304,240304001,Are the zebras facing the same direction?,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+123,240304,240304002,What is the tree covered with?,fencing,mesh,leaves,wire fence,fence,wire mesh,fence,wire,leaves,wire
+124,34,34000,Is this a horse?,no,no,no,no,no,no,no,no,no,no
+125,34,34001,What is the animal eating?,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass
+126,34,34002,How old is animal?,2 years,young,adult,3 years old,10 years,2,10 years,2,20,10 years
+127,393251,393251000,Are they drinking wine at the child's party?,yes,yes,yes,yes,yes,no,yes,yes,yes,yes
+128,393251,393251001,Is the man wearing glasses?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+129,393251,393251002,What is the man holding?,knife,knife,knife,knife,knife,knife,nothing,knife,knife,knife
+130,393251,393251003,What is the man cutting?,birthday cake,cake,cake,cake,cake,cake,cake,cake,yes,cake
+131,262180,262180000,What is the fruit?,banana,banana,banana's,banana,caramel,banana,banana,banana,banana's,bananas
+132,262180,262180001,Is this a good dessert?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+133,262180,262180002,What is the name of the type of person that would make this food?,chef,chef,chef,pastry chef,chef,chef,chef,chef,pastry chef,chef
+134,262180,262180003,What type of ice cream is on the plate?,vanilla,vanilla,vanilla,vanilla,fruit salad,vanilla,vanilla,banana,vanilla,banana
+135,524325,524325000,How many people are wearing shorts in the forefront of this photo?,4,4,4,4,4,4,4,4,4,4
+136,524325,524325001,Is this an indoor or outdoor photo?,outdoor,outdoor,outdoor,outdoor,outdoor,outdoor,outdoor,outdoor,outdoor,outdoor
+137,524325,524325002,Are those kites in the air?,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+138,43697,43697000,Is this a hot dog?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+139,43697,43697001,What color is the napkin?,white,white,white,white,white,white,white,white,white,white
+140,43697,43697002,Is there ketchup on the hot dog?,no,no,no,no,no,no,no,no,no,no
+141,43697,43697003,Has this hot dog been grilled?,no,yes,no,no,no,no,no,no,yes,no
+142,43697,43697004,Have you tried a hot dog like this before?,yes,yes,yes,no,yes,no,yes,yes,yes,yes
+143,43697,43697005,What's missing from this hot dog?,nothing,mustard,mustard,mustard,toppings,mustard,condiments,mustard,mustard,sauce
+144,43697,43697006,What is the hog dog sitting on?,bun,bun,napkin,napkin,napkin,bun,buns,pita bread,bun,bun
+145,262184,262184000,Is this a toy-sized truck?,no,no,no,no,no,no,no,no,no,no
+146,262184,262184001,What is the sky full of?,clouds,clouds,clouds,clouds,clouds,clouds,clouds,clouds,clouds,cloud
+147,262184,262184002,Where are the trucks?,on dock,dock,dock,on dock,pier,dock,no trucks shown,outside,forklifts,by water
+148,131113,131113000,What is the color of the carpet?,brown,brown and tan,brown,brown,red,tan,brown and white,brown,no carpet,red
+149,131113,131113001,Is there a carpet on the floor?,yes,no,no,yes,yes,no,yes,no,yes,no
+150,131113,131113002,What color is the refrigerator?,silver,silver,stainless steel,silver,silver,silver,silver,silver,silver,silver
+151,131113,131113003,What is this device?,refrigerator,refrigerator,refrigerator,fridge,refrigerator,refrigerator,ref,fridge,light switch,light switch
+152,262187,262187000,Is this plane landing?,no,no,no,no,yes,no,no,yes,no,no
+153,262187,262187001,What color is the plane?,red,red and silver,red,red,red,red and silver,red white and black,red,orange and silver,red and white
+154,262187,262187002,What shape are the windows on the side of the plane?,squares,rectangle,square,rectangles,round,r square,square,square,square,square
+155,262187,262187003,Is the plane taking off?,no,yes,no,no,no,no,no,no,no,yes
+156,131118,131118000,Are these airliners?,no,no,yes,yes,yes,yes,no,yes,yes,yes
+157,131118,131118001,How many planes are in the picture?,2,2,2,2,2,2,2,2,2,5
+158,131118,131118002,Are this cargo planes?,no,yes,yes,no,no,yes,yes,yes,yes,no
+159,262191,262191000,Is this bear a normal size?,yes,yes,yes,no,no,no,yes,no,no,no
+160,262191,262191001,What is the website on the sign?,yes,wmatacom,wmatacom,wmatacom,wmatacom,yes,wmatacom,wmatacom,wmatacom,wmatacom
+161,262191,262191002,What is the bear called?,teddy bear,teddy bear,teddy,teddy,teddy,teddy,teddy,teddy,teddy bear,teddy bear
+162,49,49000,Is there a flower arrangement on the lawn?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+163,49,49001,What color horse is closer to the camera?,black,black,black,black,black,black,black,brown one,black,black
+164,49,49002,Are they playing polo?,no,no,yes,no,no,no,no,yes,no,yes
+165,524338,524338000,How many trees are in this photo?,3,3,4,5,3,3,3,3,1,4
+166,524338,524338001,What type of tree is the man standing next to?,elm,elm,maple,not sure,birch,trunk,big one,unknown,oak,big one
+167,524338,524338002,Is this man reading a cell phone screen?,no,no,no,no,no,no,no,no,no,no
+168,213863,213863000,What pattern is on the pants?,stripes,stripped,stripes,stripes,stripes,stripes,stripes,pinstripes,stripes,stripes
+169,213863,213863001,What sport is this person playing?,baseball,baseball,baseball,baseball,baseball,baseball,baseball,baseball,baseball,baseball
+170,213863,213863002,What is the position of the player behind the batter called?,catcher,catcher,catcher,umpire,hitting ball,catcher,catcher,catcher,catcher,catcher
+171,393268,393268000,What color is the girl's shirt?,blue,blue,blue,blue,blue,light blue,light blue,blue,blue,blue
+172,393268,393268001,What are they drinking?,beer,beer,beer,beer,beer,beer,beer,beer,water,beer
+173,393268,393268002,What brand of beer is visible?,pail,pau,can't see,unclear,can't tell,coors,budweiser,ipa,sierra nevada,heineken
+174,131126,131126000,Where is Brooklyn Avenue?,crosses athol ave,new york,corner of athol ave,bottom,can't tell,700 block,bottom,not sure,700,crossing athol ave
+175,131126,131126001,Which direction is Brooklyn Ave?,left and right,left or right,north,north,left,north,across,left,right,left to right
+176,131126,131126002,Is there a stop sign in the picture?,no,yes,no,no,yes,no,yes,yes,yes,no
+177,131127,131127000,What logo is on the man's shirt?,nike,nike swoosh,nike,nike,nike,nike,nike swoosh,nike,livestrong,nike
+178,131127,131127001,Is the man unhappy?,no,no,no,no,no,no,no,no,no,no
+179,131127,131127002,Are the men going to share the bananas?,no,no,no,yes,no,yes,yes,no,no,no
+180,131128,131128000,What color are the flowers?,yellow,yellow and white,yellow and white,yellow and white,yellow white,yellow and white,yellow and white,yellow and white,"white, yellow","white, yellow"
+181,131128,131128001,What colors are the flowers?,yellow white,"white, yellow, peach","orange, white, and yellow",yellow and white,yellow and white,yellow and white,yellow and white,"yellow white, and orange",white and yellow,"yellow, white and orange"
+182,131128,131128002,How many flowers are painted on the vase?,3,3,3,3,3,3,3,6,3,2
+183,131128,131128003,Do the painted flowers match the real ones?,no,no,no,no,no,no,no,yes,no,no
+184,262201,262201000,Where is the bird?,on cliff,precipice,mountain,on ledge,cliff,in middle,sitting on rock,on rock,on cliff,crow
+185,262201,262201001,Will the birds go into the water?,no,no,no,no,no,no,no,no,no,yes
+186,262201,262201002,What direction is the bird looking?,right,sideways,east,right,right,right,right,right,right,right
+187,262201,262201003,Is this bird afraid of the ledge?,no,no,no,no,no,no,no,no,no,no
+188,370986,370986000,What time of day is it?,midday,noon,noon,morning,afternoon,mid-day,afternoon,morning,morning,midday
+189,370986,370986001,How many elephants are in the water?,2,2,1,2,2,2,3,2,2,2
+190,370986,370986002,How many tails can you see in this picture?,3,3,3,3,3,3,3,3,3,3
+191,262204,262204000,How many tusks are visible?,2,2,2,2,2,2,2,2,2,2
+192,262204,262204001,What is this animal?,elephant,elephant,elephant,elephant,elephant,elephant,elephant,elephant,elephant,elephant
+193,262204,262204002,What color is the animal?,gray,gray,gray,gray,gray,gray,gray,gray,gray,gray
+194,131133,131133000,What color is the plane?,red and white,red and white,red and white,orange,red,red,red and white,red and white,red and white,red
+195,131133,131133001,What type of plane is this?,small,smaller propeller plane,propeller,propeller,private,don't know,single propeller plane,propeller,small personal plane,biplane
+196,131133,131133002,Are the mountains high?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+197,262207,262207000,What color are the seats?,brown,gray brown,beige,tan,tan,tan,juniper green,gray,beige,brown
+198,262207,262207001,Is there a person standing in front of the television?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+199,262207,262207002,Where is the mirror?,on wall,on wall,wall,wall,right upper corner,left side,wall,right of window,wall,wall
+200,262207,262207003,Is there enough room under the armchairs for a cat to hide?,yes,yes,no,no,yes,no,yes,no,yes,yes
+201,64,64000,Who made the cock?,rolex,factory,rolex,rolex,rolex,man,rolex,rolex,people,rolex
+202,64,64001,Are there numbers on the clock face?,no,no,yes,no,roman numerals,yes,no,yes,no,yes
+203,64,64002,Is there a big tree behind the clock?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+204,64,64003,What is in the picture?,clock,clock,street and its surroundings,"clock,trees,car,building,street,signs",clock,clock,clock,"clock, tree",clock,clock
+205,64,64004,What time is the clock showing?,6:10,6:10,2:30,6:30,6:10,6:10,6:10,6 :10,6:10,8:30
+206,458763,458763000,What are the vases sitting on?,table,table,table,table,table,table,desk,sideboard,table,table
+207,458763,458763001,How many trees on the table?,3,3,3,3,3,3,3,3,3,3
+208,458763,458763002,How many horns are in the picture?,0,0,0,1,1,0,1,0,0,1
+209,458763,458763003,What color is the middle vase?,blue,blue,blue,green,blue,blue,blue,blue,blue,blue
+210,458763,458763004,What is the table made of?,wood,wood,wood,wood,wood,wood,wood,woo,wood,wood
+211,458763,458763005,What kind of trees are on the table?,christmas,christmas trees,christmas,wooden,christmas,pine,christmas,christmas,christmas,christmas trees
+212,458763,458763006,Is this a wedding?,no,no,no,no,no,no,no,no,no,no
+213,567990,567990000,What is the green stuff on this pizza?,spinach,spinach,broccoli,spinach,spinach,spinach,spinach,kale,spinach,broccoli
+214,567990,567990001,Does the crust look burnt?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+215,567990,567990002,Is it thick or thin crust?,thick,thin,thick,thick,thick,thick,thick,thick crust,thick,thick
+216,567990,567990003,Does this pizza have a deep dish crust?,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+217,393286,393286000,Is the banana freshly peeled?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+218,393286,393286001,Is the banana closed?,no,no,no,no,no,no,no,no,no,no
+219,393286,393286002,What is the orange thing?,cushion,pouch,bag,bag,bag,bag,lunch pack,bag,bag,bag
+220,71,71000,Does this photo show train tracks?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+221,71,71001,Does this train work?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+222,71,71002,Is this train headed towards or from the orange building?,from,away from,from,from,from,from,from,away,from,from
+223,72,72000,How many Giraffes are in this image?,2,2,2,2,2,2,2,3,2,2
+224,72,72001,What is the giraffe eating?,2,leaves,leaves,leaves,grass,leaves,leaves,leaves,tree branches,leaves
+225,72,72002,Are the giraffes under the trees?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+226,393228,393228000,Are there 3 elephants?,yes,yes,yes,yes,yes,no,yes,yes,yes,yes
+227,393228,393228001,Are all of the elephants full grown?,no,no,no,no,no,no,no,no,no,no
+228,393228,393228002,Are the elephants in the jungle?,yes,yes,yes,yes,yes,yes,yes,no,no,yes
+229,393290,393290000,What is on the woman's neck?,necklace,necklace,nothing,neck chain,necklace,necklace,necklace,necklace,necklace,necklace
+230,393290,393290001,Is the woman eating the pizza?,no,no,yes,no,no,yes,yes,yes,no,no
+231,393290,393290002,How many stairs are there?,8,6,6,7,6,6,7,7,6,7
+232,393291,393291000,Where is the sink located?,countertop,bathroom,left,bathroom,counter,on counter,bathroom,on left side,left wall,left
+233,393291,393291001,Where is the soap?,shower,shower,shower,shower,in shower,shower,on vanity,in shower,in shower,in shower
+234,393291,393291002,What color is the window frame?,yellow,white,clear,white,white,white,white,yellow,blocks,silver
+235,393291,393291003,What item is folded up and sitting on the edge of the shower stall?,rug,rug,rug,towel,towel,towel,bath mat,towel,towel,rug
+236,393291,393291004,What pattern is on the shower curtain?,vinyl,plain,solid,solid,solid color,solid color,solid,stripes,solid,solid
+237,393291,393291005,What are the colors of the countertop?,brown,tan,brown,brown,brown,tan,orange,orange,brown,brown
+238,393291,393291006,Are there any reflections in this picture?,mirrors,no,yes,no,no,no,no,no,no,no
+239,393291,393291007,How many windows are there?,3,2,0,3,3,3,2,3,3,3
+240,393292,393292000,Is the water on?,no,no,no,no,no,no,no,no,no,no
+241,393292,393292001,Is this photo outdoors?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+242,393292,393292002,How many birds are in the sink?,1,1,2,1,1,2,2,2,2,2
+243,262221,262221000,What is the person on the right called?,chair umpire,referee,referee,referee,referee,umpire,referee,chair umpire,referee,referee
+244,262221,262221001,Whose logo is on the official's chair?,wimbledon,wilson,wilson,wilson,wilson,wilson,wilson,w=wilson,wilson,wilson
+245,262221,262221002,How many tennis players are in the photo?,1,1,1,1,1,1,1,1,1,2
+246,78,78000,Are the clock and owl made in the same artistic fashion?,yes,no,yes,no,no,no,no,no,no,no
+247,78,78001,Is that owl a candle?,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+248,78,78002,What time does the clock say?,12:40,8:00,8:00,8:00,8:00,8,8:00,8:00,8 o clock,8:00
+249,81,81000,Does this planes tail have 4 colors?,no,no,no,no,yes,yes,no,no,3,no
+250,81,81001,Is this plane landing?,no,no,no,no,no,no,yes,yes,no,no
+251,81,81002,Is this plane taking off?,no,yes,no,yes,yes,already flying,no,no,no,yes
+252,81,81003,What is the last letter over the plane?,e,e,e,e,e,e,e,e,e,e
+253,81,81004,Are these wings strong?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+254,86,86000,Is that a bicycle?,no,yes,yes,no,yes,no,yes,yes,no,yes
+255,86,86001,What is the number on the mailbox?,94,24,24,24,24,24,94,24,24,24
+256,86,86002,What is this person wearing on head?,hat,helmet,helmet,hat,helmet,hat,hat,helmet,hat,cap
+257,524375,524375000,Is this a cow farm?,yes,yes,yes,yes,yes,yes,yes,no,no,yes
+258,524375,524375001,What are the animals doing?,grazing,grazing,grazing,50,grazing,eating,grazing,grazing,grazing,grazing
+259,524375,524375002,What breed of livestock is shown?,sheep,sheep,cows,sheep,goat,sheep,cows,unknown,cow,sheep
+260,524375,524375003,How many black sheep are there?,10,5,10,0,4,4,19,around 6,12,3
+261,524375,524375004,What game would you play when you saw this as a child?,count sheep,patty cake,none,frisbee,tag,counting sheep,running,rolling down hill,king of hill,tag
+262,524375,524375005,Where is the human?,hilltop,on top of hill,on top of hill,on hill,hill,on hill,far back,top of hill,hill,standing on horizon
+263,524375,524375006,Is this a prairie?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+264,524375,524375007,Is there a village in the background?,no,no,no,no,no,no,no,no,no,no
+265,131160,131160000,What color is the sign?,white,white,white and brown,white and brown,white,white,white and brown,white,brown and white,white
+266,131160,131160001,Would you be able to find a mosque in this city?,yes,yes,yes,no,yes,no,yes,yes,yes,yes
+267,131160,131160002,What language is the sign written in?,spanish,russian,german,arab,hebrew,spanish,iranian,african,english,spanish
+268,524377,524377000,How has the cheese been prepared?,melted,melted,melted,yes,creamy,melted,grilled,melted,melted,melted
+269,524377,524377001,Is there ketchup?,no,no,no,no,no,no,no,no,no,no
+270,524377,524377002,How many lunches is this?,1,1,1,1,1,hot dogs,1,1,1,1
+271,524377,524377003,Is the hotdog well seasoned?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+272,524377,524377004,What kind of food is shown?,hot dog,carrot fries and dog,"sweet potato fries, dip, hot dog on bun",hot dog,hot dog,"hot dog, bacon",hot dog,hot dog and fries,hot dog,hot dog
+273,524377,524377005,What is the cutting board used for in this scene?,plate,making hot dogs,sausage,food,tile,cut food,platter,hold food,holding food,meat
+274,524377,524377006,Of what meal is this kind of food typical?,lunch,lunch,dinner,dinner,lunch,american,lunch,lunch,lunch,lunch
+275,524377,524377007,Is this a healthy meal?,no,no,no,no,no,no,no,no,no,no
+276,524377,524377008,What kind of sauce is in the largest ramekin?,mayonnaise,butter,butter,butter sauce,butter,horseradish,butter,aioli,not sure,butter
+277,524377,524377009,What type of food is shown?,sausage,pork,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog,hot dog and sweet potato fries
+278,524377,524377010,What is the topping on the hot dog?,onion,peppers,peppers and onion,seasoning,onions,hot,peppers,onions,onions,peppers
+279,524377,524377011,What topping is on the hot dog?,peppers and onions,onions,sauerkraut,peppers and onion,onions,bacon,onion,onions,grilled onions,bacon
+280,524377,524377012,What is in the small container?,butter,mayo,butter,mayonnaise,mayonnaise,butter,mayonnaise,mustard,sauce,butter
+281,524377,524377013,What are the components of this dish?,"hot dog, onions and potatoes",butter,hot dog and sweet potato fries,hot dogs and french fries,"hot dog, bun, mayonnaise, peppers","bun, hot dog, sweet potatoes, butter, onions","hot dog, roll, onions, fries","hot dog, bun, fries, mayo",hot dog and fries,bun hot dog topping
+282,524377,524377014,What kind of toppings are on the hot dogs?,onions,onions,onions,onions,onions and peppers,onions,onions,grilled onions,peppers,bacon
+283,524377,524377015,Is there a spoon in this photo?,no,no,no,no,no,no,no,no,no,no
+284,524377,524377016,Is this breakfast?,no,no,no,no,no,yes,no,no,yes,no
+285,524377,524377017,How delicious does this look?,not very,not,very delicious,very delicious!,very,good,very,very,very,not at all
+286,524377,524377018,What two vegetables are in the white bowl?,no vegetables,none,no vegetables,none,no vegetables,sweet potatoes/onion,potatoes,none,no veg in bowl,mayo
+287,524377,524377019,How many hot dogs are shown?,1,1,1,1,1,1,1,1,1,1
+288,524377,524377020,What type of filling is in the dish on the bottom left?,fries,there is no dish shown on bottom left,hot dog,mayonnaise,mayo,mayonnaise,mustard,potato,butter,mayonnaise
+289,524377,524377021,What color is the tray?,white,white,white,white,white,white,white,white,white,white
+290,524377,524377022,How many pickle spears are there?,0,0,0,0,0,no pickle in sight,0,5,0,0
+291,524377,524377023,What is the yellow stuff in a bowl?,butter,mayonnaise,butter,butter,dip,mayonnaise,butter,cheese,butter,butter
+292,524377,524377024,How many people are eating this hotdog?,1,1,1,1,1,1,1,1,1,1
+293,524377,524377025,Is there a drink in this picture?,no,no,no,no,no,yes,no,no,no,no
+294,524377,524377026,What is the hot dog sitting on top of?,bun,bun,bun,bun,bun,plate,bun,bun,white tray,bun
+295,524377,524377027,How many sauces are there?,1,1,1,1,1,1,1,1,1,1
+296,524377,524377028,What are the orange things?,sweet potatoes,carrots,sweet potato fries,sweet potato fries,sweet potato fries,fries,fries,sweet potato fries,carrots,hot dogs
+297,524377,524377029,Are the carrots diced or cut long ways?,cut long ways,long ways,cut long,long ways,long,long,long ways,cut,long ways,cut
+298,524377,524377030,Do these hot dogs look like they taste good?,yes,yes,yes,yes,no,no,yes,yes,yes,yes
+299,524377,524377031,Are those tomatoes on the sandwich?,no,yes,yes,no,no,no,no,no,no,yes
+300,524377,524377032,What is in the cup?,mayo,mayo,mayonnaise,mayo,mayonnaise,mayo,mayo,sauce,butter,mayonnaise
+301,524377,524377033,What is the orange root called?,sweet potato,rutabaga,sweet potato,sweet potatoes,sweet potato,sweet potato,carrot,potato,sweet potato,sweet potato
+302,524377,524377034,What is the blackened meat on the bread?,hot dogs,bacon,hot dog,sausage dog,no,hot dog,hot dog,hot dog,polish sausage,sausage
+303,524377,524377035,What kind of meat is this?,sausage,polish,hot dog,hot dog,hot dog,sausage,sausage,hot dog,sausage,pork
+304,524377,524377036,What is on the sandwich?,onions,hot dog and onions,hot dog,sausage,hot dog,relish,hot dog,bacon,hot dog,peppers
+305,524377,524377037,Are the fries plain?,yes,no,no,no,no fries,no,no,no,no,no
+306,524377,524377038,Does this breakfast dish primarily carbohydrates?,yes,yes,yes,no,no,no,yes,no,no,yes
+307,524377,524377039,Has someone started eating?,no,no,no,no,no,no,no,no,no,no
+308,524377,524377040,What animal is on the plate?,hot dog,pig,cow,no,pig,pig,pig,pig,beef,pig
+309,524377,524377041,Would this be good for dessert?,no,no,no,no,no,no,no,no,no,no
+310,524377,524377042,Is there a butter plate on the table?,yes,yes,yes,yes,yes,no,yes,yes,no,yes
+311,524377,524377043,Does this have lettuce?,no,no,no,no,no,no,no,no,no,no
+312,524377,524377044,Does the food look good?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+313,524377,524377045,Is this meat?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+314,524377,524377046,What is on the hotdog?,peppers,peppers,onions,peppers,onions,onions,"onions, relish",onions,red peppers,chili
+315,524377,524377047,What two vegetables can be seen on the pizza?,"peppers,chives",none,"carrots, onions",not possible,peppers,no pizza,peppers and onions,none,not pizza,potatoes
+316,524377,524377048,Would this typically be eaten for breakfast?,no,no,no,no,no,no,no,no,no,no
+317,524377,524377049,Is that bacon from a delicatessen?,yes,no,no,no,no,yes,yes,yes,yes,no
+318,524377,524377050,What condiment is on the potatoes?,parsley,butter,butter,parsley,butter,parsley,butter,mayonnaise,basil,mayo
+319,524377,524377051,How many kinds of meat products are here?,1,1,2,3,1,1,1,1,1,1
+320,524377,524377052,What sauces are shown?,mayo,horseradish,mayonnaise,mayonnaise,butter,mayonnaise,mayo,honey mustard,butter,butter
+321,524377,524377053,What kind of potato are the fries?,none,sweet,sweet,sweet potato,sweet,sweet potato,sweet,sweet,red,well cooked
+322,524377,524377054,What is mainly featured?,hot dog,sausage and brisket sandwich,hot dog,hot dog,bacon,sausage sandwich and fries,hot dog,hot dog and fries,sausage and potatoes,food
+323,393306,393306000,Is the man wearing formal clothes?,no,no,no,no,no,no,no,no,no,no
+324,393306,393306001,What kind of plants are these?,flowers,dead kind,daisies,flowers,flowers,flowers,flowers,daisies,flowers,flowers
+325,393306,393306002,What is the pattern on the vase?,floral,flowers,floral,floral,floral,floral,floral,flowered,floral,floral
+326,393306,393306003,Which hand is the man holding up?,left,left,left,left,left,left,left,right,left,left
+327,262159,262159000,Is there a deodorant on the sink?,no,no,no,no,no,no,no,no,no,no
+328,262159,262159001,Is there a full roll of toilet paper in the bathroom?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+329,262159,262159002,How many rolls of toilet paper are on the toilet tank?,2,2,2,2,2,2,2,2,2,2
+330,262159,262159003,Would someone be able to watch you change from the outside?,no,yes,yes,no,no,no,yes,yes,yes,yes
+331,262159,262159004,What color is the bathroom?,green,yellow,yellow,white,white,white and yellow,yellow,yellow and white,white,yellow
+332,262159,262159005,Does the shower have a glass door?,no,no,no,no,no,no,no,no,no,no
+333,262159,262159006,What is the primary color of the bathroom?,white,yellow,yellow,yellow,yellow,green,yellow,yellow,yellow,greenish yellow
+334,262159,262159007,What color is the wall?,yellow,yellow,yellow and white,yellow,yellow,yellow,yellow,yellow,yellow,orange
+335,262159,262159008,Is the towel rack silver?,no towel rack,no,no,no,no,yes,no,yes,no,yes
+336,262159,262159009,Is there a shower curtain?,yes,yes,yes,yes,yes,no,yes,yes,yes,yes
+337,262159,262159010,What color are the bathroom walls?,yellow,yellow,yellow,yellow,yellow green,green,yellow,yellow,yellow,yellow
+338,262159,262159011,Where is the light coming from?,camera flash,outside,lamp,hallway,window,camera flash,window,outside bathroom,outside,outside room
+339,262159,262159012,Is the toilet lid down?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+340,92,92000,How many layers are in this cake?,9,2,7,8,7,1,7,3,10,16
+341,92,92001,Does this cake look like it chocolate?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+342,92,92002,How many people can eat this cake?,1,1,1,1,1,1,1,1,1,3
+343,94,94000,What is printed on the orange sign?,peace,pizza,no name restaurant and cafe,no,no name restaurant & cafe,pizza,church,unclear,pizza,nothing
+344,94,94001,What is the name of the hotel?,peace way,peace way,peace way,peace way,peace way,peace way hotel,peace way,peace way hotel,peace way hotel,peace way hotel
+345,94,94002,How many vehicles are shown?,2,2,2,2,2,2,2,2,2,2
+346,94,94003,What mode of transportation is pictured?,car,car,"car, truck",car,car,automobile,driving,car,car,cars
+347,94,94004,Is this a small town?,yes,yes,yes,yes,yes,yes,no,yes,no,yes
+348,393311,393311000,Will these planes be used to transport people?,no,no,no,no,no,no,no,yes,no,no
+349,393311,393311001,What airline is this?,inverted air cargo,everts air cargo,everts air cargo,everts air cargo,not possible,everts air cargo,not possible,air cargo,nerts air cargo,converts air cargo
+350,393311,393311002,The plane's stand resembles what letter?,a,a,r,v,n,a,v,r,n,a
+351,393311,393311003,What type of plane is this?,commercial,cargo plane,cargo,cargo,cargo,cargo plane,carrier,air cargo,cargo,propeller
+352,393311,393311004,What is written on the picture?,dutchsimba,dutch simba,dutchsimba,dutchsimba,dutchsimba,dutchsimba,dutchsimba,dutchsimba,dutch simba,dutchsimba
+353,393311,393311005,What shipping company is represented in the scene?,everts air cargo,everts air,erts air cargo,converts air cargo,everts air cargo,everts air cargo,converts air cargo,air cargo,air cargo,everts air cargo
+354,393311,393311006,What airline is this plane from?,everts air cargo,everts air cargo,not visible,everts air cargo,air cargo,air cargo,everts air cargo,nerts air cargo,air cargo,can't say
+355,393311,393311007,What kind of aircraft is this?,plane,everts air cargo,cargo plane,cargo,cargo plane,cargo plane,air cargo,prop plane,cargo,airplane
+356,393311,393311008,How does the man get down from the machine?,movable flight of stairs,stairs,ladder,stairs,stairs,ladder,ladder,stairs,stairs,stairs
+357,524386,524386000,Is the room carpeted?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+358,524386,524386001,Where is the television?,against wall,middle,left side,in room,wall,stand,next to wall,near wall,wall,table
+359,524386,524386002,Is there a fireplace?,no,no,no,no,no,no,no,no,no,no
+360,524386,524386003,Are stains on the floor?,no,no,no,no,no,no,no,no,no,no
+361,524386,524386004,How many lamps are there?,2,2,2,2,2,2,2,2,2,3
+362,524386,524386005,What is the picture of on wall?,tower,unsure,abstract,moodle,abstract,abstract,abstract,multiple pictures,art,abstract
+363,524386,524386006,What is on the carpet?,rug,circles,rug,rug,rug,spots,rug,area rug,rug,circles
+364,524386,524386007,How many lamps are in the room?,3,2,2,2,2,2,2,3,2,2
+365,524386,524386008,Are these boys at home?,no,yes,no,yes,no,yes,yes,no,no,no
+366,524386,524386009,What kind of lamp is on the floor?,floor,floor lamp,floor lamp,tall,floor lamp,floor lamp,floor lamp,floor lamp,floor lamp,table lamp
+367,524386,524386010,Is this a 60's motif?,no,no,no,no,yes,no,no,no,no,no
+368,524386,524386011,How many pictures on the wall?,4,4,4,4,4,4,4,4,4,4
+369,524386,524386012,Which floor lamp is not lit?,floor lamp,tall standing lamp in corner,corner one,one in far corner,floor,back,one in corner,in corner,back one,one in corner
+370,524386,524386013,How many TVs are on?,1,1,1,1,1,1,1,1,1,1
+371,524386,524386014,What color is the sofa?,gray,gray,gray,gray,tan,gray,gray,gray,gray,light brown
+372,524386,524386015,How many pictures are on the wall?,3,4,4,3,4,3,4,3,4,4
+373,131172,131172000,How many men in the picture are wearing sunglasses?,1,2,1,1,1,1,1,1,1,1
+374,131172,131172001,What kind of hat is the man with the girls wearing?,baseball,baseball cap,baseball,baseball cap,baseball cap,ball cap,baseball cap,baseball hat,baseball cap,baseball cap
+375,131172,131172002,What color is the man's shirt in the front of the photo?,black,black,blue,black,black,black,black,black,black,black
+376,131172,131172003,What are the ladies doing?,texting,sitting,looking at phones,playing on their cell phones,texting,texting,texting,playing on phones,on their phones,phone
+377,393317,393317000,Where is the street sign?,above street,overhead,above street,above stop light,pole,streetlight,somerset,on stop light,over street,pole
+378,393317,393317001,Where are the women walking?,crosswalk,crosswalk,street,street,sidewalk,crosswalk,street,in crosswalk,across street,crosswalk
+379,393317,393317002,Is the light green?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+380,393317,393317003,What is written on the street?,somerset,somerset,somerset,somerset,nothing,nothing,nothing,nothing,somerset,nothing
+381,393317,393317004,Is it raining?,yes,no,no,yes,no,no,yes,no,no,no
+382,393317,393317005,Urban or suburban?,urban,urban,urban,suburban,suburban,urban,urban,urban,urban,urban
+383,393317,393317006,Where is the woman standing?,in street,sidewalk,in street,on street,crosswalk,crosswalk,crosswalk,crosswalk,crosswalk,street
+384,393317,393317007,How many people can be seen?,2,2,2,2,2,2,2,2,2,2
+385,393317,393317008,What type of vehicle is on the left?,public bus is on left,bus,bus,bus,bus,bus,bus,bus,bus,bus
+386,393317,393317009,Is this woman crossing a street?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+387,393317,393317010,What color is the traffic signal?,green,green,green,green,green,green,green,green,green,green
+388,393317,393317011,What is being held green?,light,traffic light,traffic light,sign,light,traffic light,sign,light,traffic light,light
+389,393317,393317012,What time of day is it?,afternoon,noon,day,mid-day,afternoon,evening,noon,afternoon,morning,afternoon
+390,393317,393317013,Is this in the United States?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+391,393317,393317014,How many green lights are there?,1,1,1,1,1,1,1,1,1,1
+392,131174,131174000,How many lights does the plane have?,4,5,5,5,4,5,5,5,5,4
+393,131174,131174001,How many planes are in this photo?,1,1,1,1,1,1,1,1,1,1
+394,131174,131174002,Is there anyone in the cockpit?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+395,546151,546151000,What country name is written as the highest word on the bus?,guatemala,guatemala,guatemala,guatemala,guatemala,guatemala,guatemala,guatemala,cugremals,guatemala
+396,546151,546151001,Is the bus stopped?,no,yes,yes,yes,yes,yes,yes,yes,yes,yes
+397,546151,546151002,How many people are standing in this image?,3,1,1,1,1,3,3,3,3,3
+398,21826,21826000,What is the skier standing on?,skis,snow,snow,skis,snow,mountain,skis,skis,snowboard,skis
+399,21826,21826001,How many poles is the person holding?,2,2,2,2,2,2,2,2,2,2
+400,21826,21826002,What is the person doing?,skiing,skiing,skiing,skiing,skiing,skiing,skiing,skiing,skiing,skiing
+401,109,109000,Is this an ocean area?,yes,yes,yes,yes,no,yes,no,no,no,no
+402,109,109001,How many bodies of water are in this scene?,1,1,1,1,1,1,1,2,1,1
+403,109,109002,How many light post is there?,4,4,5,5,5,3,4,4,3,4
+404,109,109003,Is the ground near the waterfront squishy?,no,no,yes,yes,no,yes,no,no,no,no
+405,109,109004,What infrastructure would one drive on to go perpendicular to the water?,bike,bridge,bridge,bridge,road,boat,boardwalk,boat,boat,boat
+406,109,109005,Is the water calm?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+407,110,110000,What color is the woman's sweater?,gray,brown,blue,brown,gray,gray,beige,gray,beige,bray
+408,110,110001,Is this a cheese pizza?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+409,110,110002,What pizza topping is this?,cheese,cheese,cheese,cheese,cheese,cheese,cheese,cheese,cheese,cheese
+410,305853,305853000,What is in the vase next to the flowers?,window,paper,origami,origami,leaves,paper,paper cranes,what flowers are these?,papers,paper
+411,305853,305853001,Is there more than one vase on the table?,no,yes,yes,yes,yes,yes,yes,yes,yes,yes
+412,305853,305853002,Are these flowers real or silk?,real,real,real,real,real,real,real,real,real,real
+413,305853,305853003,England's Queen mother and these blooms share what syllable?,sunflower,color,i don't know,no idea,s,unsure,sun,sun,elizabeth,none
+414,113,113000,How many people are in the picture?,3,3,3,3,2,3,3,3,3,3
+415,113,113001,What color are the chairs?,blue,blue,blue,blue,blue,blue,blue,blue,blue,blue
+416,113,113002,What kind of celebration is this?,birthday,birthday,anniversary,birthday,birthday,anniversary,anniversary,birthday,retirement,anniversary
+417,113,113003,What emblem is on the cake?,flower,can't tell,words,anniversary,wedding,words,married,scrollwork,lettering,none
+418,113,113004,Are they outside or in?,inside,inside,in,in,inside,inside,in,in,in,inside
+419,113,113005,Is there a cake here?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+420,113,113006,Are there any pens on the table?,no,no,no,no,no,no,no,no,no,no
+421,113,113007,What are the initials on the cake?,m,hb,icing,jk,not sure,mk,md,t,js,md
+422,262260,262260000,Why are the birds only appearing as black silhouettes?,direction of sunlight,low light,shadows,sun,lighting,position of sun,bad light,sunset,glare,backlighting
+423,262260,262260001,How many pigeons are there?,6,6,6,6,7,6,6,6,6,6
+424,262260,262260002,Is this image tilted?,yes,yes,yes,yes,yes,no,no,yes,no,yes
+425,262261,262261000,What utensil is in the pan?,knife,knife,knife,knife,knife,knife,knife,knife,knife,knife
+426,262261,262261001,What is the red vegetable in the clear dish?,tomatoes,tomatoes,tomato,watermelon,watermelon,tomato,tomato,tomato,cherry,watermelon
+427,262261,262261002,Does this image contain a pie pan?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+428,131190,131190000,Is this a large house?,yes,yes,no,yes,yes,yes,no,yes,yes,no
+429,131190,131190001,Is there a fountain in front of the building?,no,no,no,no,no,no,no,no,no,no
+430,131190,131190002,Is the sun shining?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+431,131190,131190003,What color is the building?,red,red,red,red,red,red,"red, brown, white, gray",red,red,red
+432,131190,131190004,Is this a church?,no,no,yes,no,yes,yes,no,yes,yes,no
+433,131190,131190005,What tree is on the left?,oak,pine,bush,shrub,evergreen,green,evergreen,green,shrub,unknown
+434,131190,131190006,Are there clouds visible?,no,no,no,no,no,no,no,no,no,no
+435,131190,131190007,Is this a sunny day?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+436,131190,131190008,What is the material right around the clock?,wood,roof,wood,siding,wood,cement,cement,white,brick,concrete
+437,131190,131190009,What color are the flowers?,red,white,white and pink,red,white and red,red,red,red,red,pink
+438,131190,131190010,How many bells are there?,1,1,1,1,1,1,1,1,1,1
+439,131190,131190011,How tall is this building?,30 ft,20 feet,100 feet,3 stories,very,regular,really tall,30 feet,medium high,2 stories
+440,131190,131190012,What materials are on the roof?,bricks,shingles,tile,shingles,shingles,shingles,clay,shingles,tile,shingles
+441,131190,131190013,How many clock faces does this building have?,1,1,1,1,1,1,1,1,1,1
+442,131190,131190014,Are the hedges well-groomed?,yes,no,yes,no,no,no,yes,yes,no,no
+443,131190,131190015,Does the building in the back have an elevator?,no,no,yes,no,no,no,no,don't know,no,no
+444,131190,131190016,What is in gold at the top of the building?,nothing,clock,flag,bell,nothing,steeple,vane,clock,flag,weathervane
+445,131190,131190017,Do you a phone booth?,no,no,no,no,no,no,no,no,no,no
+446,131190,131190018,What color is the clock tower in this photo?,white,white,white,white,white,white and black,white,white,white,white
+447,131190,131190019,What are on both side of the building?,trees,windows,trees,trees,windows and vines,trees,trees,vines,trees,trees
+448,131190,131190020,What is around the tree?,bushes,building,building,leaves,grass,building,house,building,grass,grass
+449,131190,131190021,Are the buildings tall?,yes,no,no,yes,yes,yes,yes,no,no,yes
+450,131190,131190022,How many flags are by the building's entrance?,0,0,0,0,0,0,0,0,0,0
+451,131190,131190023,Is the clock between two arches?,yes,no,no,no,yes,yes,no,no,no,no
+452,131190,131190024,Are there any entrance gates at the bottom of the tower?,no,yes,yes,no,no,no,no,no,no,no
+453,131190,131190025,Is the building a high rise?,no,no,no,no,no,no,yes,yes,no,no
+454,131190,131190026,Is part of this tower made of wood?,yes,no,yes,yes,yes,yes,yes,no,yes,no
+455,131190,131190027,Can the tree tell time?,no,no,no,no,no,no,no,no,no,no
+456,131190,131190028,How many windows are shown?,5,4,5,5,5,6,4,6,7,6
+457,131190,131190029,How many windows are pictured?,6,6,6,4,4,4,5,6,5,4
+458,131190,131190030,Is the emblem a sun face clock?,no,no,yes,no,yes,yes,yes,no,yes,yes
+459,131197,131197000,What is the woman doing in this photo?,petting sheep,petting sheep,petting,petting sheep,petting,kissing sheep,petting sheep,petting sheep,petting sheep,petting sheep
+460,131197,131197001,What are the sheep standing on?,hay,hay,hay,hay,hay,hay,hay,hay,hay,hay
+461,131197,131197002,What is the woman feeding the animal?,straw,hay,grain,hay,love,hay,hay,nothing,love,pellets
+462,131197,131197003,How many sheep can you see?,2,2,2,2,2,2,2,2,2,2
+463,131197,131197004,Is the ram's fleece dirty?,no,no,no,no,no,yes,yes,no,yes,yes
+464,127,127000,Is there a travel guide on the table?,no,yes,yes,yes,in front of plates,yes,yes,yes,yes,yes
+465,127,127001,What color plate is this?,white,white,white,white,white,white,white,white,white,white
+466,127,127002,What type of silverware is on the plates?,knife and spoon,knife,knife and spoon,knife and spoon,knife and spoon,knife,knife and spoon,spoon and butter knife,spoon knife,knife and spoon
+467,262273,262273000,What color are the skis?,yellow and black,yellow,yellow,yellow,yellow,yellow,yellow,yellow,yellow,yellow
+468,262273,262273001,Is there snow?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+469,262273,262273002,What is the man holding in his left hand?,phone,ski pole,ski poles,ski pole,ski pole,ski pole,ski pole,skii,ski pole,pole
+470,262273,262273003,What is the color of the zipper?,black,black,black,black,cannot tell,black,black,black,black,black
+471,262273,262273004,Are the boots a solid color or patterned?,patterned,patterned,solid,yes,solid,patterned,pattern,pattern,solid,patterned
+472,262273,262273005,How many people are there?,1,1,1,1,1,1,1,1,1,1
+473,262273,262273006,Is it summer?,no,no,no,no,no,no,no,no,no,no
+474,262273,262273007,What color is the man's hat?,black and gray,black,black,black,black,black,black,black,black,black
+475,262273,262273008,How many people are in the image?,1,1,1,1,1,1,1,1,1,1
+476,524420,524420000,What color is the woman's shorts?,black,black,black,black,black,black,black,black,black,black
+477,524420,524420001,Is the picture in color?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+478,524420,524420002,Is there a dog in the photo?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+479,524420,524420003,Is the dog on a leash?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+480,524420,524420004,What are the people doing in the street?,walking,walking,walking,walking,walking,walking,walking,walking,walking,walking
+481,436929,436929000,What is floating near the bird?,ice,foam,water,fog,ice,ice,foam,nothing,ice,fish
+482,436929,436929001,Are all of the birds in flight?,no,no,no,no,no,no,no,no,no,no
+483,436929,436929002,How many birds are there?,3,3,2,3,3,3,3,3,3,3
+484,436929,436929003,Are there three birds in the picture?,yes,no,yes,yes,yes,yes,3,yes,yes,yes
+485,436929,436929004,Is this a dog?,no,no,no,no,no,no,no,no,no,no
+486,436929,436929005,Is this a winter scene?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+487,436929,436929006,Is the water frozen?,yes,no,yes,no,yes,no,yes,no,yes,no
+488,131208,131208000,Why are there so many clothes on the bed?,she just did laundry,laundry,lack of storage,she does not want to put them away,it's hot,she's messy,haven't put away yet,messy,bed isn't made,yes
+489,131208,131208001,Is that a laptop on the chair?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+490,131208,131208002,What color is the girl's hair?,red,red,pink,red,red,orange,red,red,red,red
+491,284012,284012000,What brand of soda is advertised?,pepsi,pepsi,pepsi,pepsi,pepsi,pepsi,pepsi,pepsi,pepsi,pepsi
+492,284012,284012001,Is Cingular a sponsor of this field?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+493,284012,284012002,What Mexican food restaurant chain is advertised?,del taco,panda express,del taco,del taco,del taco,del taco,del taco,del taco,del taco,del taco
+494,284012,284012003,How is the turnout?,great,good,good,good,hundreds,high,great,high,fair,decent
+495,284012,284012004,How many men are playing baseball?,5,6,4,several,4,5,5,5,5,5
+496,284012,284012005,What is the large sculpture next to the oversized cola bottle?,panda,marquee,building,panda express,scoreboard,panda express logo,scoreboard,building,billboard,panda
+497,284012,284012006,What color is the catcher's pants?,gray,gray,white,gray,gray,gray,gray,gray,gray,gray
+498,138,138000,How many pots are hanging under the shelf?,2,2,2,2,2,2,2,2,2,2
+499,138,138001,What time is it?,1:50,1:50,older,1:50,1:51,1:55,1:50,1:50,1:50,2:50
+500,138,138002,Is this a conventional kitchen?,no,no,no,no,yes,no,no,no,no,yes
+501,262283,262283000,What color flowers are on the top right?,purple,purple,pink,purple,pink,purple and pink,purple,purple,purple,purple
+502,262283,262283001,Is the area lit?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+503,262283,262283002,Where was this shot at?,florist,florist,flower shop,florist,flower shop,florist,flower shop,flower shop,florist,florist
+504,262283,262283003,Are the vases identical?,no,no,no,no,yes,no,yes,no,yes,yes
+505,524428,524428000,Are these the normal size pieces of pizza?,yes,no,yes,yes,yes,yes,yes,no,no,no
+506,524428,524428001,Could you eat all of this pizza?,no,no,no,no,yes,yes,yes,no,no,no
+507,524428,524428002,Is there broccoli on a slice of pizza?,yes,no,yes,yes,no,no,yes,yes,no,no
+508,524428,524428003,What color is the cloth?,gray,gray,gray,gray,gray,white,gray,gray,gray,gray
+509,262285,262285000,How many zebras are there?,7,14,13,10,7,8,14,9,13,12
+510,262285,262285001,What continent might this be?,africa,africa,africa,africa,africa,africa,africa,africa,africa,africa
+511,262285,262285002,Is there an animal that seems to stick out?,no,zebras,no,no,on right,no,no,zebra,no,no
+512,262285,262285003,Is this in a zoo?,no,no,no,no,no,no,no,no,no,no
+513,262285,262285004,Is this in a desert?,yes,no,yes,yes,no,no,yes,no,yes,no
+514,142,142000,What type of fruit is on the plate?,banana,banana,banana,banana,banana,banana,bananas,bananas,banana,banana
+515,142,142001,Is this a banana toast?,no,no,yes,yes,yes,no,no,yes,yes,yes
+516,142,142002,What color is the milk carton?,blue white,blue and white,blue,blue,blue,blue,blue,blue and white,blue,blue
+517,131215,131215000,Are the people playing a game?,no,no,no,no,no,no,no,no,no,no
+518,131215,131215001,Is the TV turned on?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+519,131215,131215002,Is this person watching a movie?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+520,131215,131215003,What is in the blue chair?,teddy bears,teddy bears,stuffed animals,teddy bears,teddy bears,teddy bears,stuffed animals,bears,dolls,dolls
+521,131215,131215004,What type of footwear is the person wearing?,socks,socks,tennis shoes,sneakers,socks,socks,socks,shoes,socks,socks
+522,144,144000,What are the animals doing?,drinking,drinking water,grazing,eating,eating,watching,eating,eating,eating,eating
+523,144,144001,Is one of the giraffes eating?,yes,yes,yes,yes,yes,yes,yes,yes,no,yes
+524,144,144002,What type of animal is in the picture?,giraffe,giraffe,giraffe,giraffe,giraffe,giraffe,giraffes,giraffe,giraffe,giraffe
+525,393362,393362000,Is it daytime?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+526,393362,393362001,Are the kickstands down?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+527,393362,393362002,Do you see any motorcycle helmets?,yes,yes,yes,yes,no,no,yes,no,yes,yes
+528,149,149000,Is the kite high in the air?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+529,149,149001,Is the sky clear?,no,no,yes,no,yes,no,no,no,no,yes
+530,149,149002,What color is the building?,red,red,brown,red,red,red,red brick,brown,brown,red
+531,149,149003,Are the people flying kites?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+532,149,149004,Which buses are double deckers?,no,0 here,ones in back,no buses,0,0,0,0,left,0
+533,149,149005,What kind of court is at the edge of the field?,tennis,basketball,tennis,basketball,soccer,soccer,soccer,soccer,soccer,soccer
+534,471373,471373000,Can you see any fish?,no,no,no,no,no,no,no,no,no,no
+535,471373,471373001,Is this man swimming?,no,no,yes,no,no,no,yes,no,no,yes
+536,471373,471373002,Is he turning?,no,no,no,no,no,no,no,no,no,no
+537,471373,471373003,Does the man have short hair?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+538,471373,471373004,What is this man laying on?,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard,surfboard
+539,109986,109986000,What color is this girl's shirt?,red,red,red,red,red,red,red,red,red,red
+540,109986,109986001,What color is the girls hot dog?,red,red,red,brown,red,red,"brown, red",red,red,red
+541,109986,109986002,What color are the girl's lips?,red,red,red,red,red,red,red,red,red,red
+542,131225,131225000,What does the front of the bus say at the top?,special,special,special,special,special,special,special,special,special,special
+543,131225,131225001,Is the bus featured in this picture typical?,no,no,no,no,no,no,no,no,yes,no
+544,131225,131225002,What color is the school bus?,blue and yellow,"yellow, blue",blue,blue & yellow,blue yellow,blue yellow,blue yellow,blue and yellow,"it is yellow, blue, white",blue and yellow and white
+545,131225,131225003,Is this the latest make and model?,no,no,unknown,no,no,no,no,no,no,no
+546,131225,131225004,What color is the bus?,blue and yellow,blue and yellow,blue and yellow,blue yellow white,"blue, yellow and white",yellow and blue,yellow and blue,"yellow, blue, and white",blue and yellow,"blue, white and yellow"
+547,131225,131225005,Are there any building in the area?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+548,154,154000,Is there a fence in the background?,yes,no,no,no,no,no,yes,no,no,no
+549,154,154001,How many zebras can you see eating?,3,1,2,3,3,3,1,1,3,3
+550,154,154002,How many kinds of animals are in this photo?,1,1,1,1,1,1,1,1,1,1
+551,154,154003,Is the zebra's tail up?,yes,no,no,no,no,no,no,no,no,yes
+552,154,154004,How many different types of animals are in this scene?,1,1,1,1,1,1,1,1,1,1
+553,154,154005,What direction are the animals heading?,right,different,right,east,east,right,west,north,right,right
+554,154,154006,Are they the same type of animal?,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+555,154,154007,Is the zebra walking or standing still?,walking,walking,standing still,walking,walking,walking,walking,walking,standing still,walking
+556,154,154008,Are all zebras facing the same way?,no,no zebras,no,no,yes,no,no,no,yes,no
+557,154,154009,How many animals are there?,3,3,3,3,3,3,3,3,3,3
+558,154,154010,Are the zebras running?,no,no,no,no,no,no,no,no,no,no
+559,154,154011,Who is in the photo?,zebras,zebras,zebras,zebras,zebras,zebras,zebra,no one,nobody,zebra
+560,154,154012,Number of animals?,3,3,3,3,3,3,3,3,3,3
+561,262299,262299000,Is he going to fall?,no,yes,no,no,maybe,no,no,no,no,no
+562,262299,262299001,What color are the stakes in the dirt?,yellow,yellow,yellow,yellow,yellow,yellow,yellow,yellow,yellow,yellow

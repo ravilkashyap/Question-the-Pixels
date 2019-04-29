@@ -1,0 +1,6 @@
+data/train/images
+data/glove/glove.840B.300d.txt
+data/*.npy
+models/bert/*
+models/encoder/*
+
