@@ -15,3 +15,4 @@ We've exiting stuff down the line. Stay tuned!!!
 ### To Do
 - [ ] Build a baseline MLP model by concatenating image and text features
 - [ ] Use attention model
+- [ ] Build a web UI to serve
