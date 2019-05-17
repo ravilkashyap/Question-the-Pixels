@@ -10,9 +10,12 @@ We've exiting stuff down the line. Stay tuned!!!
 - [x] Extract metadata from json
 - [x] Extract image features through Densenet
 - [x] Extract text features through InferSent
-- [x] Extract text features through BERT 
+- [x] Extract text features through BERT
 
 ### To Do
 - [ ] Build a baseline MLP model by concatenating image and text features
 - [ ] Use attention model
 - [ ] Build a web UI to serve
+
+
+Disclaimer: 'Web' directory contains just the rough outlook if the UI part and might not function as instructed for now.

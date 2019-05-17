@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html class=''>
+    <head>
+        <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,300' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" id="bootstrap-css">
+        <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css'>
+        <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.2/css/font-awesome.min.css'>
+        <link rel="stylesheet" type="text/css" href="../static/main.css">
+        
+        <link rel="shortcut icon" type="image/png" href="../static/logo.jpg"/>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+        
+    </head>
+
+    <body>
+        <div id="frame">
+            <div id="sidepanel">
+                <div id="profile">
+                    <div class="wrap">
+                        <img id="profile-img" src="../static/user.png" class="online" alt="" />
+                        <p>You</p>
+                    </div>
+                </div>
+
+                <div id="contacts">
+                    <ul>
+                        <li class="contact active">
+                            <div class="wrap">
+                                <span class="contact-status busy"></span>
+                                <img src="../static/logo.jpg" alt="" />
+                                <div class="meta">
+                                    <p class="name">VQA Asst</p>
+                                    <p class="preview"></p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <div id="bottom-bar">
+                        <p class="name" style="padding: 2%">Image</p>
+                        <img class="vqa_image" src={{data.img_url}} alt="" style="width: 100%; padding: 2%"/>
+                    </div>
+                </div>
+            </div>
+            <div class="content">
+                <div class="contact-profile">
+                    <img src="../static/logo.jpg" alt="" />
+                    <p>VQA Asst</p>
+                    <div class="social-media">
+                        <i class="fa fa-github fa-lg" aria-hidden="true"></i>
+                    </div>
+                </div>
+                <div class="messages">
+                    <ul>
+                        <img class="vqa_image" src={{data.img_url}} alt="" style="width: 80%; padding-left: 20%"/>
+                        
+                        {% for chats in data.init_convo %}
+                            <li class={{chats.type}}>
+                                <img src="{{chats.src}}" alt="" />
+                                <p>{{chats.message}}     </p>
+                            </li>
+                        {% endfor %}
+                        
+                    </ul>
+                </div>
+                <div class="message-input">
+                    <div class="wrap">
+                    <input type="text" placeholder="Write your message..." />
+                    <label class="fa fa-paperclip attachment" aria-hidden="true"><input id="image-upload" style="display: none;" type="file" accept="image/*"/></label> 
+                    <button class="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+<script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+<script >
+
+$(".messages").animate({ scrollTop: $(document).height() }, "fast");
+
+function newMessage(message) {
+	
+	if($.trim(message) == '') {
+		return false;
+	}
+	$('<li class="sent"><img src="../static/user.png" alt="" /><p>' + message + '</p></li>').appendTo($('.messages ul'));
+	$('.message-input input').val(null);
+	$('.contact.active .preview').html('<span>You: </span>' + message);
+	$(".messages").animate({ scrollTop: $(document).height() }, "fast");
+
+    //$.get('/tts?message='+message);
+};
+
+function newMessageReply(resultArr) {
+	var intro_msg = "I think its, ";
+    var other_msg = "<br/><br/>but it can also be :<br/>";
+    var message = intro_msg + resultArr[0][1] + ' with confidence of ' + resultArr[0][0] + '% ' + other_msg;
+    console.log(message);
+    resultArr.shift();
+    for (result of resultArr) {
+        console.log(result)
+        message = message + result[1] + " confidence of " + result[0] + "%,<br/>";
+        console.log(message)
+    }
+    $('<li class="replies"><img src="../static/logo.jpg" alt="" /><p>' + message + '</p></li>').appendTo($('.messages ul'));
+    $('.message-input input').val(null);
+    $('.contact.active .preview').html(message);
+    $(".messages").animate({ scrollTop: $(document).height() }, "fast");
+
+    $.get('/tts?message='+message);
+};
+
+$('.submit').click(function() {
+  message = $(".message-input input").val();  
+  newMessage(message);
+  if($.trim(message) == '') {
+		return false;
+  } 
+  newMessageIntro("Iam on it, Thinking ...")
+  $.get('/convo?msg='+message).done(
+        function(data) {
+            // alert(data);
+            var arraySort = [];
+            console.log("Data: ", data);
+
+            for( var i in data) {
+                arraySort.push([data[i], i])
+            }
+            resultArr = arraySort.sort().reverse();
+            console.log(resultArr[0]);  
+            newMessageReply(resultArr);
+            console.log(resultArr);   
+            newMessageIntro("I think iam getting good at this<br/>Ask me more !")
+        }
+    );
+  
+});
+
+function newMessageIntro(message) {
+
+    $('<li class="replies"><img src="../static/logo.jpg" alt="" /><p>'+ message + '</p></li>').appendTo($('.messages ul'));
+    $('.message-input input').val(null);
+    $('.contact.active .preview').html(message);
+    $(".messages").animate({ scrollTop: $(document).height() }, "fast");
+    $.get('/tts?message='+message);
+    
+}
+
+$(window).on('keydown', function(e) {
+  if (e.which == 13) {
+    $('.submit').trigger('click');
+    return false;
+  }
+});
+//# sourceURL=pen.js
+
+$('#image-upload').bind('change', function() { 
+	var fileName = ''; 
+    fileName = $(this).val(); 
+    console.log(fileName + " is selected");
+    newMessageIntro("New Image is loaded, I like the image..<br/> U have nice taste !!")
+    $.get('/upload?file='+fileName).done(
+        function(data) {
+            //alert(data);
+            console.log("Data: ", data);
+            $('.vqa_image').attr("src", data)
+        }
+    );
+})
+</script>
+</body>
+</html>
